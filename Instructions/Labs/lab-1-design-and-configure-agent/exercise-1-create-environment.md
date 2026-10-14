@@ -48,10 +48,9 @@ Create the environment that will host your agent and its Dataverse data. Choosin
 
     | Field | Value |
     |---|---|
-    | Name | *Your name* |
     | Type | **Developer** |
-    | Macro Region Geography | **North America** (or the region closest to you) |
-    | Add a Dataverse data store? | **Yes** |
+    | Region | **Leave the default value selected** |
+    | Name | *Your name* |
 
     > [!NOTE]
     > The **Developer** environment type is free per user and is intended for individual maker work. It doesn't count against production capacity in the tenant.
@@ -60,8 +59,8 @@ Create the environment that will host your agent and its Dataverse data. Choosin
 
     | Field | Value |
     |---|---|
-    | Language | **English (United States)** |
-    | Currency | **USD ($)** |
+    | Language | **Leave the default value selected** |
+    | Currency | **Leave the default value selected** |
     | Deploy sample apps and data | **No** |
 
 1. Select **Save** and wait for the environment state to reach **Ready**. Use the **Refresh** button on the command bar to update the status.

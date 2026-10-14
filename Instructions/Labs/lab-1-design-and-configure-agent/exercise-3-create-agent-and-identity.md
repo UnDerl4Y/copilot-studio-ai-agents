@@ -87,6 +87,8 @@ Author the instructions that define what the agent is. Instructions are the prim
     - Do not repeat or store any sensitive credential the rep pastes into the conversation.
     ```
 
+1. At the top of the page, change the model to **GPT-5 Chat**.
+
 1. In the upper-right corner of the page, select the **Save** (disk) icon.
 
     > [!NOTE]
