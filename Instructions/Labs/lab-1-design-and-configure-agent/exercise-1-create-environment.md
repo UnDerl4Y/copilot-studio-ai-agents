@@ -40,6 +40,8 @@ Create the environment that will host your agent and its Dataverse data. Choosin
 
 1. If prompted to stay signed in, select **Yes**. Close any welcome or pop-up messages that appear.
 
+1. In the left navigation pane, select **Manage**.
+
 1. On the **Environments** page, select **+ New** on the command bar.
 
 1. In the **New environment** panel, enter the following values:
